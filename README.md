@@ -39,11 +39,6 @@
 ### 📊 GitHub Analytics & Achievements
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sharma-rajat-02&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Rajat's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharma-rajat-02&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharma-rajat-02&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharma-rajat-02&layout=compact&theme=tokyonight&hide=html,css&langs_count=6" width="48%" alt="Top Languages" />
 </p>
 ---
 
