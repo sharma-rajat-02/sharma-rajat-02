@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 🛠️ Professional Toolbox & Languages
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharma-rajat-02&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </p>
 
 ---
@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Analytics & Score
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sharma-rajat-02&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharma-rajat-02&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🏆 Achievements
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-bg=true&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sharma-rajat-02&theme=radical&no-bg=true&no-frame=true" alt="Trophies" />
 </p>
