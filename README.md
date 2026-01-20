@@ -29,10 +29,10 @@
 ### 🛠️ Technical Toolbox
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **ML/Data Science** | `Scikit-learn`, `Pandas`, `NumPy`, `SciPy`, `Applied ML (U-Michigan)` |
-| **Frameworks** | `Flask`, `React.js`, `Vue.js` |
-| **Cloud & Core** | `AWS Console`, `SAP`, `Git`, `Data Structures & Algorithms` |
+| **Languages** |![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **ML/Data Science** | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white), ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white), ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white), ![SciPy](https://img.shields.io/badge/SciPy-%238CAAE6.svg?style=for-the-badge&logo=scipy&logoColor=white) |
+| **Frameworks** | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white), ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB), ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) |
+| **Cloud & Core** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white), ![SAP](https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white), ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
 
@@ -42,12 +42,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharma-rajat-02&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=sharma-rajat-02&theme=radical&no-bg=true&column=4" alt="Trophies" />
-</p>
-
 ---
 
 ### 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajatsharma022805/)
-[cite_start][![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajatsharma.022805@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajatsharma.022805@gmail.com)
