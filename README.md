@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Rajat Sharma 👋
 
 ### 🛠️ Professional Toolbox & Languages
 <p align="left">
