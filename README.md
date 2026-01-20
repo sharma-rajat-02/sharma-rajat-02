@@ -47,7 +47,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sharma-rajat-02&show_icons=true&theme=radical&hide_border=true" height="160" alt="Rajat's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahrma-rajat-02&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharma-rajat-02&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
 </div>
 
 ---
