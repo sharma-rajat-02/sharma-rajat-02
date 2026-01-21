@@ -1,22 +1,9 @@
 # Hi there, I'm Rajat Sharma 👋 
 
-**[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/sharma-rajat-02/Resume/blob/main/Resume.pdf)**
+****[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/sharma-rajat-02/Resume/blob/main/Resume.pdf)****
 
 **AI/ML Engineer | Computer Science @ VIT Bhopal** 🎓  
 *Passionate about building end-to-end data-driven applications with a focus on Responsible AI.*
-
----
-
-### 🚀 Featured Engineering Projects
-
-#### [📚 Hybrid Book Recommender System](https://github.com/sharma-rajat-02/book-buddy)
-* **Engineering Logic:** Developed a **Consensus Rank** algorithm aggregating **KNN, Jaccard Similarity, and Pearson Correlation** to solve data sparsity.
-* **Key Achievement:** Gained **85% efficiency** through responsible AI adoption and implemented a **Live Hit Rate @ 5** validation pipeline.
-* **Stack:** `Python`, `Scikit-Learn`, `SciPy`, `Flask`.
-
-#### [🛒 Dry Fruits E-Commerce](https://github.com/sharma-rajat-02/dry-fruits-web)
-* **Impact:** Deployed a high-performance platform using **React.js** and **Vue.js**, achieving positive client endorsement.
-* **Tech:** `React.js`, `Vue.js`, `Bolt AI`.
 
 ---
 
@@ -33,6 +20,16 @@
 | **ML/Data Science** | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white), ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white), ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white), ![SciPy](https://img.shields.io/badge/SciPy-%238CAAE6.svg?style=for-the-badge&logo=scipy&logoColor=white) |
 | **Frameworks** | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white), ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB), ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) |
 | **Cloud & Core** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white), ![SAP](https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white), ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) |
+
+---
+
+### 🏆 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **HYbrid Book Recommendation System** | A full-stack realtime working web application. Uses **KNN** for recommendations and predictions and integrates a **Hit rate @ 5** for real-time evaluation. | `Python` `Flask` `HTML` |
+<!-- | **Fraud Detection** | AI-based ID verification system. Achieved **85%+ accuracy** detecting fraudulent patterns using custom CNN architectures and **OCR**. | `OpenCV` `TensorFlow` `Pytesseract` |
+| **Flood Prediction** | Real-time disaster risk assessment tool leveraging **Random Forest** algorithms and live **OpenWeather API** data (90% accuracy). | `Python` `Scikit-learn` `Streamlit` | -->
 
 ---
 
