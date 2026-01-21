@@ -17,8 +17,7 @@
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** |![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **ML/Data Science** | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white), ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white), ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white), ![SciPy](https://img.shields.io/badge/SciPy-%238CAAE6.svg?style=for-the-badge&logo=scipy&logoColor=white) |
-| **Frameworks** | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white), ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB), ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) |
+| **Tools & Frameworks** | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white), ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white), ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white), ![SciPy](https://img.shields.io/badge/SciPy-%238CAAE6.svg?style=for-the-badge&logo=scipy&logoColor=white), ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white), ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB), ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) |
 | **Cloud & Core** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white), ![SAP](https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white), ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
@@ -27,7 +26,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **HYbrid Book Recommendation System** | A full-stack realtime working web application. Uses **KNN** for recommendations and predictions and integrates a **Hit rate @ 5** for real-time evaluation. | `Python` `Flask` `HTML` |
+| **Hybrid Book Recommendation System** | A full-stack realtime working web application. Uses **KNN** for recommendations and predictions and integrates a **Hit rate @ 5** for real-time evaluation. | `Python` `Flask` `HTML` |
 <!-- | **Fraud Detection** | AI-based ID verification system. Achieved **85%+ accuracy** detecting fraudulent patterns using custom CNN architectures and **OCR**. | `OpenCV` `TensorFlow` `Pytesseract` |
 | **Flood Prediction** | Real-time disaster risk assessment tool leveraging **Random Forest** algorithms and live **OpenWeather API** data (90% accuracy). | `Python` `Scikit-learn` `Streamlit` | -->
 
