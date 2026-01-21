@@ -5,6 +5,13 @@
 **AI/ML Engineer | Computer Science @ VIT Bhopal** 🎓  
 *Passionate about building end-to-end data-driven applications with a focus on Responsible AI.*
 
+I bridge the gap between static models and scalable production, architecting the full intelligence loop from raw mathematical foundations to high-availability.
+
+- 🔭 **Current Project**: Building high-precision **Alzheimer’s Detection** systems using deep learning.
+- 🌱 **Learning Path**: Mastering Advanced Machine Learning Algorithms and Active Learning methodologies.
+- 👯 **Collaboration**: Open to contributing to **Open Source AI & ML initiatives**.
+- 💬 **Ask Me About**: KNN, React/Vue, Deployment Strategies, and Developing New Algorithms.
+
 ---
 
 ### 💼 Professional Experience
