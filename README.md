@@ -1,6 +1,6 @@
 # Hi there, I'm Rajat Sharma 👋 
 
-****[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/sharma-rajat-02/sharma-rajat-02/blob/main/Resume%20(5).pdf)****
+****[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledocs&logoColor=white)]([https://github.com/sharma-rajat-02/sharma-rajat-02/blob/main/Resume%20(10).pdf])****
 
 **AI/ML Engineer | Computer Science @ VIT Bhopal** 🎓  
 *Passionate about building end-to-end data-driven applications with a focus on Responsible AI.*
