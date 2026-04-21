@@ -17,7 +17,8 @@ I bridge the gap between static models and scalable production, architecting the
 ### 💼 Professional Experience
 * **IT Intern (Business Analyst) @ Honda Cars India Ltd.** * Optimized resource allocation via analytical dashboards and managed QC platform enhancements using **SAP**.
     * Maintained **100% data accuracy** for asset tracking using Symphony Submit.
-
+    * Spearheaded system enhancements for Honda's QC platform using SAP while ensuring 100% audit compliance.
+    * Developed analytical reports and dashboards saving 2 man-hours to optimize resource allocation and departmental workflow.
 ---
 
 <!-- Matrix Rain Header with Green Gradient -->
