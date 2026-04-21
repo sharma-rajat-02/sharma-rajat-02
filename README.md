@@ -61,8 +61,7 @@ I bridge the gap between static models and scalable production, architecting the
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/rajatsharma.022805)
 
 
-
-
+<!------------------------------------------------------------------------->
 
 
 <!-- Matrix Digital Rain Banner - FULL WIDTH -->
@@ -72,7 +71,7 @@ I bridge the gap between static models and scalable production, architecting the
 
 <!-- Matrix Rain Header with Green Gradient -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Akshat%20Singh&fontSize=70&fontColor=00ff00&animation=twinkling&gradient=00ff00,006400,00cc00" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rajat%20Sharma&fontSize=70&fontColor=00ff00&animation=twinkling&gradient=00ff00,006400,00cc00" width="100%"/>
 </div>
 
 <!-- Typing Animation with Code Vibe -->
@@ -102,10 +101,10 @@ I bridge the gap between static models and scalable production, architecting the
   <tr>
     <td width="60%">
       <pre>
-class Akshat:
+class Rajat:
     def __init__(self):
-        self.name = "Akshat Singh"
-        self.alias = "akshat-collab"
+        self.name = "Rajat Sharma"
+        self.alias = "Rajat-collab"
         self.location = "India 🇮🇳"
         self.role = "Full Stack Developer"
         self.code = ["Python", "JavaScript", "TypeScript"]
@@ -119,7 +118,7 @@ class Akshat:
     def dream_big(self):
         return "🌌 Building digital experiences that matter"
 
-me = Akshat()
+me = Rajat()
 print(me.code_daily())
 print(me.dream_big())
       </pre>
@@ -239,9 +238,9 @@ print(me.dream_big())
 <!-- Contribution Chart - Full Year Grid -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/akshat-collab?gradient=true&colors=00ff00,33ff33,66ff66,99ff99,ccffcc" />
-    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/akshat-collab?gradient=true&colors=006400,00aa00,00cc00,00ee00,00ff00" />
-    <img alt="Akshat's GitHub Contribution Chart" src="https://ghchart.rshah.org/akshat-collab?gradient=true&colors=00ff00,33ff33,66ff66,99ff99,ccffcc" width="90%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/Rajat-collab?gradient=true&colors=00ff00,33ff33,66ff66,99ff99,ccffcc" />
+    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/Rajat-collab?gradient=true&colors=006400,00aa00,00cc00,00ee00,00ff00" />
+    <img alt="Rajat's GitHub Contribution Chart" src="https://ghchart.rshah.org/Rajat-collab?gradient=true&colors=00ff00,33ff33,66ff66,99ff99,ccffcc" width="90%" />
   </picture>
 </div>
 
@@ -249,7 +248,7 @@ print(me.dream_big())
 
 <!-- Commit Activity Graph -->
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=akshat-collab&theme=github-dark&bg_color=0d1111&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" alt="Commit Activity Graph" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rajat-collab&theme=github-dark&bg_color=0d1111&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" alt="Commit Activity Graph" />
 </div>
 
 <br/>
@@ -266,7 +265,7 @@ print(me.dream_big())
     
 | Date | Commit Message | Repository |
 |------|----------------|------------|
-| 2024-03-30 | ✨ feat: Add Matrix theme README | akshat-collab |
+| 2024-03-30 | ✨ feat: Add Matrix theme README | Rajat-collab |
 | 2024-03-29 | 🐛 fix: Resolve deployment issues | project-dashboard |
 | 2024-03-28 | 📝 docs: Update API documentation | backend-api |
 | 2024-03-27 | 🚀 perf: Optimize database queries | ecommerce-app |
@@ -330,19 +329,19 @@ print(me.dream_big())
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/akshat-singh" target="_blank">
+  <a href="https://linkedin.com/in/Rajat-Sharma" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0a0f0f" />
   </a>
-  <a href="https://twitter.com/akshat_collab" target="_blank">
+  <a href="https://twitter.com/Rajat_collab" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=0a0f0f" />
   </a>
-  <a href="https://github.com/akshat-collab" target="_blank">
+  <a href="https://github.com/Rajat-collab" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=0a0f0f" />
   </a>
-  <a href="mailto:akshat@example.com">
+  <a href="mailto:Rajat@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0a0f0f" />
   </a>
-  <a href="https://akshat.dev" target="_blank">
+  <a href="https://Rajat.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00ff00?style=for-the-badge&logo=vercel&logoColor=black&color=0a0f0f" />
   </a>
 </div>
@@ -357,10 +356,10 @@ print(me.dream_big())
 <div align="center">
   <pre>
 $ whoami
-> Akshat Singh | Full Stack Developer
+> Rajat Sharma | Full Stack Developer
 
 $ pwd
-> /home/akshat/code/universe
+> /home/Rajat/code/universe
 
 $ echo $MOTTO
 > "Code. Build. Innovate. There is no spoon."
@@ -379,7 +378,7 @@ $ uptime
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=akshat-collab&style=flat-square&color=00ff00" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Rajat-collab&style=flat-square&color=00ff00" alt="Profile Views"/>
   <br/>
   <i>"The Matrix is everywhere. It is all around us."</i>
   <br/>
