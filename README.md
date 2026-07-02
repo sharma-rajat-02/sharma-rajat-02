@@ -55,7 +55,7 @@ class Rajat:
         self.name = "Rajat Sharma"
         self.alias = "Rajat-collab"
         self.location = "India 🇮🇳"
-        self.role = "Full Stack Developer"
+        self.role = "ML Developer"
         self.code = ["Python", "JavaScript", "TypeScript"]
         self.web = ["React", "Node.js", "Django", "Next.js"]
         self.tools = ["Docker", "AWS", "Git", "VS Code"]
